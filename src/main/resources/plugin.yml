@@ -1,0 +1,7 @@
+name: HMPlace
+version: '${project.version}'
+main: tech.bingulhan.hmplace.HMPlace
+authors: [ BingulHan ]
+commands:
+  setspawn:
+    description: for spawn setting

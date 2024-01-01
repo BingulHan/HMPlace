@@ -1,0 +1,6 @@
+settings:
+  delay: 3
+  messages:
+    reload-message: "&cTekrar blok koymak için &f%s saniye &cbeklemelisin!"
+    block-change: "&aBlok değiştirildi!"
+    success: "&aYeniden blok değiştirebilirsin şimdi!"
